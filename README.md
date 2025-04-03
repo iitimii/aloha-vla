@@ -6,6 +6,9 @@ Picking up a box
 Sorting boxes
 Transfer of objects from one manipulator to another
 
+![image](https://github.com/user-attachments/assets/a7b0e51f-9703-41d7-835a-f2ebd81f1823)
+
+
 
 On the GDG repo, we'll drop code and materials relating to the physical arm, and simulations with the panda robot (similar single set up)
 
