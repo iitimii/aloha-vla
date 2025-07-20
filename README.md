@@ -1,4 +1,4 @@
-In case I forget, this project is to explore the use of Vision Language Action models (VLAs) as policies for the ALOHA set up by Tony Z. Zhao.
+In case I forget, this project is to explore the use of Vision Language Action models (VLAs) from openvla by Moo Jin Kim as policies for the ALOHA set up by Tony Z. Zhao.
 This is for preparation of the low cost 3D printed Arm we're working on at Google Developer Groups on Campus Robotics Track
 
 Tasks include:
